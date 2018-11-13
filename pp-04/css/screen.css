@@ -25,3 +25,7 @@ body {
 
 
 /* ===== STATE STYLES ===== */
+.js label,
+.js #doorbell-audio {
+  display: none;
+}
